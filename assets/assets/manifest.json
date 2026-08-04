@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "assetBaseVariable": "LONGZU_ASSET_BASE_URL",
+  "defaultBase": "./assets",
+  "format": "WebP",
+  "generation": {
+    "original": true,
+    "textFree": true,
+    "watermarkFree": true,
+    "style": "中国水墨、暖色宣纸、都市龙类幻想、朱砂点色"
+  },
+  "assets": [
+    {
+      "file": "hero-ink-dragon.webp",
+      "size": "1600x900",
+      "role": "主视觉",
+      "sourceId": "exec-3aeba862-6c63-41aa-8215-2c196efbdd49",
+      "concept": "群山云海中的原创墨龙与远方城市，左侧标题负空间"
+    },
+    {
+      "file": "route-legacy.webp",
+      "size": "1280x853",
+      "role": "前传~龙五路线",
+      "sourceId": "exec-43365ed2-8a8c-4bba-9762-84c464df0ec4",
+      "concept": "雨夜高架、青铜门、深渊骑影与悼亡灯"
+    },
+    {
+      "file": "route-remake.webp",
+      "size": "1280x853",
+      "role": "前传~新龙四路线",
+      "sourceId": "exec-134b4a0c-bd95-41d5-a304-469c89c9f112",
+      "concept": "破碎水镜、重构山河、负形白龙与海湾城市"
+    },
+    {
+      "file": "book-ice-sea.webp",
+      "size": "900x1125",
+      "role": "冰海王座",
+      "sourceId": "exec-ca5b4a10-f65d-4875-a94e-7341d873b5ad",
+      "concept": "极夜冰座、冻海与微小科研站"
+    },
+    {
+      "file": "book-dragon-1.webp",
+      "size": "900x1125",
+      "role": "火之晨曦",
+      "sourceId": "exec-11f6e60b-496d-49de-a1ae-dd6aa32a395f",
+      "concept": "青铜熔城、火河与晨曦列车"
+    },
+    {
+      "file": "book-dragon-2.webp",
+      "size": "900x1125",
+      "role": "悼亡者之瞳",
+      "sourceId": "exec-8d9a0799-aa4c-4bd8-a746-3091559f8daf",
+      "concept": "雷雨站台、弃伞与积水中的金色双瞳"
+    },
+    {
+      "file": "book-black-moon-up.webp",
+      "size": "900x1125",
+      "role": "黑月之潮·上",
+      "sourceId": "exec-b1de4518-4b9a-4e21-96cc-8630e521595f",
+      "concept": "黑月、城市初潮与飘落花瓣"
+    },
+    {
+      "file": "book-black-moon-mid.webp",
+      "size": "900x1125",
+      "role": "黑月之潮·中",
+      "sourceId": "exec-457c09c2-0fa9-45d0-b4a8-2ad86add3b7d",
+      "concept": "霓虹浸水都市、白色跑车与墨龙云影"
+    },
+    {
+      "file": "book-black-moon-down.webp",
+      "size": "900x1125",
+      "role": "黑月之潮·下",
+      "sourceId": "exec-c84b9ada-3219-4b67-8e1b-10f2a28447e0",
+      "concept": "赤月、黑潮崩城与白色龙骨形浪花"
+    },
+    {
+      "file": "book-world-restart.webp",
+      "size": "900x1125",
+      "role": "世界的重启",
+      "sourceId": "exec-7c6c6c3a-c6cc-46e0-992c-89f259044468",
+      "concept": "冰原实验室与新生山海被裂镜一分为二"
+    },
+    {
+      "file": "book-odin-abyss.webp",
+      "size": "900x1125",
+      "role": "奥丁之渊",
+      "sourceId": "exec-968ae45f-6f70-4b9c-b023-efd03884e1f5",
+      "concept": "暴雨高架、森林黑洞与多足骑影"
+    },
+    {
+      "file": "book-mourners-return.webp",
+      "size": "900x1125",
+      "role": "悼亡者归来",
+      "sourceId": "exec-d1baf013-c39a-4f8d-8142-0343bcbb0133",
+      "concept": "冰海归航、鲸影、极光龙云与悼亡灯船"
+    },
+    {
+      "file": "paper-grain.webp",
+      "size": "640x640",
+      "role": "宣纸平铺纹理",
+      "sourceId": "exec-a13e80b8-00e2-436c-9ef8-ff03c6661592",
+      "concept": "低对比暖米色手工宣纸纤维"
+    }
+  ]
+}
